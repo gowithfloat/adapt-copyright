@@ -1,0 +1,20 @@
+{
+    "name": "adapt-copyright",
+    "version": "0.1.9",
+    "framework": "^2.0.0",
+    "extension": "copyright",
+    "displayName": "Copyright",
+    "homepage": "https://github.com/gowithfloat/adapt-copyright",
+    "repository": "git://github.com/gowithfloat/adapt-copyright.git",
+    "authors": [
+        "Steve Richey <srichey@gowithfloat.com>"
+    ],
+    "main": "/js/adapt-copyright.js",
+    "description": "Adds a copyright to every page.",
+    "keywords": [
+        "adapt-plugin",
+        "adapt-extension"
+    ],
+    "license": "MIT",
+    "targetAttribute": "_copyright"
+}
