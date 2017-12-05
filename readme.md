@@ -1,6 +1,6 @@
 # Adapt Copyright
 
-Adds a copyright to every page of an Adapt course. This is an example Adapt extension created for [DevLearn](https://www.elearningguild.com/devlearn/content/5000/devlearn-2017-conference--expo--home/). No functionality is implemented.
+Adds a copyright to every page of an Adapt course. This is an example Adapt extension created for [DevLearn](https://www.elearningguild.com/devlearn/content/5000/devlearn-2017-conference--expo--home/).
 
 ## License
 
