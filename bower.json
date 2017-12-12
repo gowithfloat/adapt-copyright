@@ -1,6 +1,6 @@
 {
     "name": "adapt-copyright",
-    "version": "0.1.9",
+    "version": "0.1.10",
     "framework": "^2.0.0",
     "extension": "copyright",
     "displayName": "Copyright",
