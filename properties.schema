@@ -37,7 +37,8 @@
                   "title": "Copyright message",
                   "inputType": "Text",
                   "validators": ["required"],
-                  "translatable": true
+                  "translatable": true,
+                  "help": "Use the placeholder {{year}} to insert the current year."
                 }
               }
             }
