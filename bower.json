@@ -1,12 +1,12 @@
 {
     "name": "adapt-copyright",
-    "version": "0.1.10",
+    "repository": "git://github.com/gowithfloat/adapt-copyright.git",
     "framework": "^2.0.0",
+    "version": "0.1.10",
     "extension": "copyright",
     "displayName": "Copyright",
     "homepage": "https://github.com/gowithfloat/adapt-copyright",
     "issues": "https://github.com/gowithfloat/adapt-copyright/issues",
-    "repository": "git://github.com/gowithfloat/adapt-copyright.git",
     "authors": [
         "Steve Richey <srichey@gowithfloat.com>"
     ],
